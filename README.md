@@ -1,5 +1,10 @@
+<h1>Screenshorts</h1>
 <img src="https://github.com/user-attachments/assets/8fb88f6e-4026-420e-944a-7f08bc83673f" alt="Screenshot 1" width="400" height="800" />
+<br/>
+<h2>Play with Computer</h2>
 <img src="https://github.com/user-attachments/assets/40e325c2-05e6-460d-b996-181fb90a4a60" alt="Screenshot 2" width="400" height="800" />
+<br/>
+<h2>Play with Friends</h2>
 <img src="https://github.com/user-attachments/assets/9d5f1904-5b65-481b-9641-9f014947a214" alt="Screenshot 3" width="400" height="800" />
 
 
